@@ -1,0 +1,30 @@
+{
+  "name": "base_structure",
+  "version": "1.0.0",
+  "description": "Базовые структуры данных",
+  "main": "",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "build": "tsc",
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hunteraf87/base_structure.git"
+  },
+  "keywords": [],
+  "author": "Albert Tuitsyn <hunteraf@mail.ru>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hunteraf87/base_structure/issues"
+  },
+  "homepage": "https://github.com/hunteraf87/base_structure#readme",
+  "devDependencies": {
+    "@types/mocha": "^10.0.0",
+    "assert": "^2.0.0",
+    "mocha": "^10.0.0",
+    "ts-node": "^10.9.1"
+  }
+}
